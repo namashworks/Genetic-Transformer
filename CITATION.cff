@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+title: "Genetic Transformer"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: Aggarwal
+    given-names: Namash
+repository-code: "https://github.com/NamashAggarwal/genetic-transformer"
+license: MIT
+version: "1.0.0"
+date-released: "2026-03-17"
+keywords:
+  - transformer
+  - genetics
+  - bioinformatics
+  - deep-learning
+  - attention-mechanism
+  - codon
+  - protein
+  - dna
+  - rna
+  - natural-language-processing
+abstract: >-
+  A Transformer architecture inspired by "Attention Is All You Need"
+  (Vaswani et al., 2017), specialized for bidirectional translation
+  between natural language and genetic sequences including DNA, RNA,
+  codons, amino acids, and proteins.
+references:
+  - type: article
+    title: "Attention Is All You Need"
+    authors:
+      - family-names: Vaswani
+        given-names: Ashish
+      - family-names: Shazeer
+        given-names: Noam
+      - family-names: Parmar
+        given-names: Niki
+      - family-names: Uszkoreit
+        given-names: Jakob
+      - family-names: Jones
+        given-names: Llion
+      - family-names: Gomez
+        given-names: "Aidan N"
+      - family-names: Kaiser
+        given-names: "\u0141ukasz"
+      - family-names: Polosukhin
+        given-names: Illia
+    journal: "Advances in Neural Information Processing Systems"
+    volume: 30
+    year: 2017
