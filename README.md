@@ -1,6 +1,6 @@
 # :dna: Genetic Transformer
 
-[![CI](https://github.com/InnovationLabsAnthopic/genetic-transformer/actions/workflows/ci.yml/badge.svg)](https://github.com/InnovationLabsAnthopic/genetic-transformer/actions/workflows/ci.yml)
+[![CI](https://github.com/namashworks/Genetic-Transformer/actions/workflows/ci.yml/badge.svg)](https://github.com/namashworks/Genetic-Transformer/actions/workflows/ci.yml)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -106,7 +106,7 @@ genetic-transformer/
 │   └── workflows/
 │       └── ci.yml                 # GitHub Actions CI pipeline
 ├── pyproject.toml                 # Build & dependency config
-├── requirements.txt               # Pinned dependencies
+├── requirements.txt               # Dependency requirements
 ├── LICENSE
 └── README.md
 ```
@@ -119,8 +119,8 @@ genetic-transformer/
 
 ```bash
 # Clone the repository
-git clone https://github.com/InnovationLabsAnthopic/genetic-transformer.git
-cd genetic-transformer
+git clone https://github.com/namashworks/Genetic-Transformer.git
+cd Genetic-Transformer
 
 # Create a virtual environment
 python -m venv .venv
